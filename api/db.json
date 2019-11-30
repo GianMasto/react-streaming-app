@@ -1,0 +1,22 @@
+{
+  "streams": [
+    {
+      "title": "Nuevo Stream!",
+      "description": "Soy Gian",
+      "userId": "117203760622855571107",
+      "id": 1
+    },
+    {
+      "title": "Otro Stream",
+      "description": "No soy Gian",
+      "userId": "0",
+      "id": 3
+    },
+    {
+      "title": "hola",
+      "description": "holaaaa",
+      "userId": "117203760622855571107",
+      "id": 4
+    }
+  ]
+}
