@@ -1,1 +1,1 @@
-React/Redux CRUD app from "Udemy - Modern React with Redux" course. 
+React/Redux CRUD app using Axios and GoogleAuth
